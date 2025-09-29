@@ -3,4 +3,5 @@ Do giới hạn dung lượng của GitHub, dataset được lưu trên Google D
 
 ➡️ [Tải dataset tại đây](https://drive.google.com/uc?id=1abcDEfGHijKlmnO123456789)
 
-Sau khi tải, giải nén vào thư mục `dataset/` và chạy file `train.py`.
+Sau khi tải, giải nén vào thư mục `dataset/` và chạy file "laydulieu.py" rồi chạy "train.py" và chạy "predit_folder.py". Với predit_folder.py thì chạy với Edit Configuration
+được kết nối tới folder Test
